@@ -39,6 +39,7 @@ d1/d2/d3/**
 !/bitrix/templates/eshop_bootstrap_2017/js
 /bitrix/templates/eshop_bootstrap_2017/js/*
 !/bitrix/templates/eshop_bootstrap_2017/js/common-add.js
+!/bitrix/templates/eshop_bootstrap_2017/js/common-add.js2
 /bootstrap-rating-master/**
 /catalog/**
 /cgi-bin/**
