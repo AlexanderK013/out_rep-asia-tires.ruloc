@@ -30,7 +30,15 @@ d1/d2/d3/**
 /ax/**
 /ax_templates/**
 /ax_utils_scripts/**
-/bitrix/**
+##/bitrix/**
+/bitrix/*
+!/bitrix/templates
+/bitrix/templates/*
+!/bitrix/templates/eshop_bootstrap_2017
+/bitrix/templates/eshop_bootstrap_2017/*
+!/bitrix/templates/eshop_bootstrap_2017/js
+/bitrix/templates/eshop_bootstrap_2017/js/*
+!/bitrix/templates/eshop_bootstrap_2017/js/common-add.js
 /bootstrap-rating-master/**
 /catalog/**
 /cgi-bin/**
