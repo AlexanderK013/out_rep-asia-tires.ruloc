@@ -1,8 +1,9 @@
 /.access.php
+/.access2.php
 /.bash_history
 /.bottom.menu.php
 /.htaccess
-/.htaccess - РєРѕРїРёСЏ.restore
+/.htaccess - ГђВєГђВѕГђВїГђВёГ‘ВЏ.restore
 /.htaccess.restore
 /.htaccess1
 /.htaccessT
@@ -86,13 +87,13 @@ d1/d2/d3/**
 /well-known/**
 /wheels/**
 /wheelsn/**
-/ - копия.htaccess
+/ - ГЄГ®ГЇГЁГї.htaccess
 /access.php
 /bash_history
 /bottom.menu.php
 /htaccess
 /htaccess.restore
-/htaccess - копия.restore
+/htaccess - ГЄГ®ГЇГЁГї.restore
 /htaccess1
 /htaccessT
 /htaccessT2
@@ -155,7 +156,7 @@ d1/d2/d3/**
 /maykop.txt
 /novaya-stranitsa.php
 /pass.php
-/pass - копия.php
+/pass - ГЄГ®ГЇГЁГї.php
 /pathLog.txt
 /photo.csv
 /phpinfo.php
@@ -187,7 +188,7 @@ d1/d2/d3/**
 /zip.php
 /zip_upload.php
 /zip_upload_iblock.php/**
-/ — копия.project
+/ вЂ” ГЄГ®ГЇГЁГї.project
 /.buildpath
 /.gitignore
 /.project
